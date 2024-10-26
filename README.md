@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="center">
 <p>&emsp;&emsp;大家好，我是alec。</p>
 <p>&emsp;&emsp;热爱编程、爬山、读书。</p>
-<p>&emsp;&emsp;相互学习，乐于分享，开源只是因为热爱。</p>
+<p>&emsp;&emsp;相互学习，乐于分享。</p>
 </div>
 
   
