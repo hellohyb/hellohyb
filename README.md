@@ -20,6 +20,7 @@ Here are some ideas to get you started:
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellohyb&show_icons=true&theme=tokyonight)
 
 <div align="center">
 <p>&emsp;&emsp;大家好，我是alec。</p>
